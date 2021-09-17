@@ -148,7 +148,13 @@ a:hover {
     font-weight: bold;
     color: #fff;
 }
-
+.wrapper .text_forgot{
+    text-align: justify;
+    font-size: 1rem;
+    line-height: 1.4;
+    letter-spacing: 1.1px;
+    font-family: var(--fuenteParrafo);
+}
 @media(max-width: 575px) {
     .wrapper {
         margin: 10px
